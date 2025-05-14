@@ -1,0 +1,3 @@
+C:/Users/muhsm/CLionProjects/scheduler_OS/cmake-build-debug/CMakeFiles/scheduler_OS.dir
+C:/Users/muhsm/CLionProjects/scheduler_OS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/muhsm/CLionProjects/scheduler_OS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
