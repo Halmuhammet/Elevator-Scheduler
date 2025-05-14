@@ -121,8 +121,8 @@ Assigned Elevator E3 to PersonID: 102
 
 ## 🛑 Notes
 
-- Make sure your server (e.g., a Flask or Node.js mock API) correctly handles `/Simulation/check`, `/NextInput`, and `/ElevatorStatus/{id}`.
 - This program is part of a larger elevator simulation and assumes proper API response formats.
+- Make sure your server (e.g., a Flask or Node.js mock API) correctly handles `/Simulation/check`, `/NextInput`, and `/ElevatorStatus/{id}`.
 
 ---
 
