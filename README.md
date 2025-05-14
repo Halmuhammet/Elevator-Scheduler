@@ -81,7 +81,7 @@ Make sure the local server hosting the simulation is running and listening on po
 
 ## 📂 File Structure
 
-- `scheduler_os.cpp` – Main program file containing logic for all threads and simulation interaction.
+- `main.cpp` – Main program file containing logic for all threads and simulation interaction.
 
 ---
 
